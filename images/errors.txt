@@ -1,0 +1,12 @@
+[2018-10-20 15:14:54] layer "free@psd.in.ua free@psd.in.ua": Unsupported extension: ua
+[2018-10-20 15:14:54] layer "+123 456 7890 +123 456 7890": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-10-20 15:14:54] layer "Copyright © 2017. PSD.IN.UA  | Best PSD Template for freelancer": Expected end of input but "|" found.
+[2018-10-20 15:14:54] layer "Lorem ipsum dolor sit amet, ": Expected end of input but "," found.
+[2018-10-20 15:14:54] layer "Sed ut perspiciatis unde omnis iste natus error s.it voluptatem": Expected end of input but "v" found.
+[2018-10-20 15:14:54] layer "Lorem ipsum dolor sit amet, ": Expected end of input but "," found.
+[2018-10-20 15:14:54] layer "1000+": Expected end of input but "+" found.
+[2018-10-20 15:14:54] layer "500+": Expected end of input but "+" found.
+[2018-10-20 15:14:54] layer "MAIL US free@psd.in.ua": Unsupported extension: ua
+[2018-10-20 15:16:24] layer "psd.in.ua": Unsupported extension: ua
+[2018-10-20 15:14:54] layer "photo3.png": Duplicate path: photo3.png
+[2018-10-20 15:15:43] layer "icon.png": Duplicate path: icon.png

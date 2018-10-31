@@ -1,0 +1,439 @@
+.row {
+    margin: 0px;
+}
+
+.header-top {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.heder-text {
+    display: flex;
+}
+
+.logo {
+    padding-right: 200px;
+}
+
+.time {
+    display: flex;
+    height: 55px;
+    padding-right: 55px;
+}
+
+.text {
+    padding-top: 10px;
+}
+
+.text p {
+    font-size: 15px;
+    color: #6a6a6a;
+    margin: 0;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 15px;
+    color: #6a6a6a;
+    margin: 0;
+}
+
+.header-bot {
+    display: flex;
+    justify-content: space-between;
+    /*padding-right: 700px;*/
+}
+
+.header-nav li {
+    display: inline;
+    padding-left: 20px;
+}
+
+.header-nav li a {
+    color: grey;
+    text-decoration: none;
+}
+
+/*.social-menu_header {*/
+/*padding: 0;*/
+/*}*/
+
+.social-menu_header li {
+    display: inline-block;
+    margin: 0% -0.5%;
+    width: 5vw;
+}
+
+.slider-item {
+
+}
+
+.backraund_photo {
+    position: relative;
+}
+
+.slider-item-info {
+    text-align: center;
+    position: absolute;
+    left: 0%;
+    top: 40%;
+    bottom: 20%;
+    width: 550px;
+    height: 300px;
+}
+
+.slider-item-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+    color: #494949;
+}
+
+.slider-item-desc {
+    font-size: 17px;
+    color: #3f3f3f;
+}
+
+.features {
+    align-items: center;
+    background: #3fb6c6;
+}
+
+.features-wrapper {
+    justify-content: center;
+}
+
+.features-item {
+    width: 25%;
+    text-align: center;
+}
+
+.features-item-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+}
+
+.features-item-desc {
+    font-size: 16px;
+    color: white;
+}
+
+.mainblock {
+    justify-content: center;
+}
+
+.top-block {
+    text-align: center;
+}
+
+.bottom-block {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.top-block-title1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #494949;
+}
+
+.top-block-title2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #494949;
+}
+
+.features2-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.features2-item-info {
+    position: absolute;
+    width: 100%;
+    bottom: 25%;
+}
+
+.features2-item {
+    width: 25%;
+    text-align: center;
+}
+
+.features2-item-title {
+    font-size: 60px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.features2-item-desc {
+    font-size: 25px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.block2 {
+    display: flex;
+    margin: 2rem 0;
+}
+
+.lowgraund-50 {
+    padding: 2%;
+    width: 50%;
+}
+
+.photo {
+    width: 100%;
+}
+
+.right-block {
+    padding-left: 20px;
+}
+
+.data {
+    font-size: 15px;
+    color: #0087be;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.top-block-title {
+    font-size: 20px;
+    color: #6a6a6a;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.text1 {
+    font-size: 16px;
+    color: #6a6a6a;
+}
+
+.gallery {
+    text-align: center;
+    margin: 3rem;
+}
+
+.features3-wrapper {
+    background-image: url(../images/backraund2.png)
+}
+
+.gallery-photo {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2rem;
+}
+
+.gallery-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+.gallery-font-text {
+    font-size: 16px;
+    color: white;
+    margin: 40px 0px;
+}
+
+.text_card {
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    margin: 0px 20px;
+    border: #ffffff;
+}
+
+.social-menu {
+    padding: 0;
+}
+
+.higetext {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #494949;
+}
+
+.lowtext {
+    font-size: 16px;
+    color: #7c7c7c;
+}
+
+.card-title {
+    color: #494949;
+    font-size: 25px;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.social-menu li {
+    display: inline-block;
+    margin: 0% 3%;
+}
+
+.bottom {
+    background: #e2e2e2;
+}
+
+.block_9 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #494949;
+    padding: 3rem 0;
+    margin: 0 2rem;
+}
+
+.backraund_color {
+    background: #171717;
+}
+
+.marker {
+    list-style-image: url("../images/treyg.png");
+    margin: 1rem 0;
+}
+
+.marker li {
+    margin: 1rem 0;
+}
+
+.marker li a {
+    color: grey;
+    font-size: 16px;
+}
+
+.form-control {
+    background: #171717;
+    border: none;
+    border-bottom: 2px solid grey;
+}
+
+.zagolovok {
+    font-weight: 700;
+    font-size: 22px;
+    color: white;
+}
+
+.contakt {
+    margin: 2rem 0;
+}
+
+.contakt div a {
+    color: grey;
+    font-size: 20px;
+}
+
+.contakt div b {
+    color: grey;
+    font-size: 17px;
+}
+
+.nijna_poloca {
+    background: grey;
+    opacity: 0.5;
+    font-size: 17px;
+    text-align: center;
+}
+
+.mi_button {
+    background: #0087be;
+    border-radius: 25rem;
+    border: color(#0087be);
+}
+
+/*body {*/
+/*width: 100%;*/
+/*box-sizing: unset;*/
+/*}*/
+
+@media (max-width: 1024px) {
+    .header-top {
+        flex-direction: column;
+    }
+    .logo{
+        padding: 0;
+        margin: 0.5rem;
+    }
+    .time{
+        padding: 0;
+        margin: 0.1rem;
+    }
+    .heder-text {
+        flex-direction: column;
+    }
+
+    .header-bot {
+        flex-direction: column;
+    }
+
+    .social-menu_header {
+        justify-content: center;
+        display: flex;
+        padding: 0;
+    }
+
+    .social-menu_header li {
+        margin: 1rem;
+    }
+
+    .block1 {
+        display: none;
+    }
+
+    .gallery-photo {
+        grid-gap: 10px;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .backraund_photo {
+        display: none;
+    }
+
+    .slider-item-info {
+        position: relative;
+    }
+
+    .features-wrapper {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .features-item {
+        width: 100%;
+    }
+
+    .bottom-block {
+        flex-direction: column;
+    }
+
+    .girlblock {
+        display: none;
+    }
+
+    .block2 {
+        flex-direction: column;
+    }
+
+    .footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+}
